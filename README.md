@@ -34,7 +34,7 @@ This project focuses on creating clean layouts, responsive sections, and modern 
 ## 📸 Project Preview
 
 ```
-![Project Preview](./screenshot.png)
+![Project Preview](screenshot.png)
 ```
 
 ---
