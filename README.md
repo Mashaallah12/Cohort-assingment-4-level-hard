@@ -33,8 +33,8 @@ This project focuses on creating clean layouts, responsive sections, and modern 
 
 ## 📸 Project Preview
 
-```md id="jhv62w"
-![Project Preview](screensort.png)
+```
+![Project Preview](./screenshot.png)
 ```
 
 ---
